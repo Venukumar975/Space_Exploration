@@ -4,7 +4,7 @@ body {
   text-align: center;
 }
 #hero-section {
-  background-image : url("static/animated.gif");
+  background-image : url("static/universe.webp");
   background-size : cover; /* cover makes sure the image covers the entire section */
   background-repeat: no-repeat;
   background-position : center center;
